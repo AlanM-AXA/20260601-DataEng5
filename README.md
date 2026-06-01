@@ -8,4 +8,4 @@ User Stories or Backlog:
 As a User, I want to reduce the number of manual tasks I am required to do so that it will free up time in my schedule.
 
 Solution Diagram:
-file:///C:/Users/Admin/Desktop/Solution%20Diagram.pdf
+[solution_diagram.pdf](solution_diagram.pdf)
