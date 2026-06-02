@@ -24,8 +24,8 @@ from app.app_refactored import (
 class TestDataCleaning(unittest.TestCase):
 
     def setUp(self):
-        self.books_path = PROJECT_ROOT / "data" / "03_Library Systembook.csv"
-        self.customers_path = PROJECT_ROOT / "data" / "03_Library SystemCustomers.csv"
+        self.books_path = PROJECT_ROOT / "app" / "data" / "03_Library Systembook.csv"
+        self.customers_path = PROJECT_ROOT / "app" / "data" / "03_Library SystemCustomers.csv"
 
         self.books_raw = file_loader(self.books_path)
         self.customers_raw = file_loader(self.customers_path)
