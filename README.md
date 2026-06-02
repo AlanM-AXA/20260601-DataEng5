@@ -9,3 +9,7 @@ As a User, I want to reduce the number of manual tasks I am required to do so th
 
 Solution Diagram:
 [solution_diagram.pdf](solution_diagram.pdf)
+
+
+Trainer's GitHub:
+https://github.com/niroshsuthagar-QA/20260601-DE5M5/tree/main
