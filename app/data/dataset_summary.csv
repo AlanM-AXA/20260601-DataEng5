@@ -1,0 +1,3 @@
+dataset,raw_rows,blank_rows_removed,processed_rows,valid_rows,dropped_rows
+Books,114,93,21,18,3
+Customers,9,1,8,8,0
