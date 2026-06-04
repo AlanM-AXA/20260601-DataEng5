@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+airflow_demo/logs/
+airflow_demo/.env
+airflow_demo/config/airflow.cfg
